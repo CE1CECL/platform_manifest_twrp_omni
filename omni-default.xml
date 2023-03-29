@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- FIRST: Remove unused/forked AOSP Projects -->
-  <include name="remove.xml" />
+  <!-- <include name="remove.xml" /> -->
 
   <!-- Include forked AOSP -->
   <include name="omni-aosp.xml" />
